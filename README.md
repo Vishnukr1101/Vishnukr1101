@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishnu KR [@Vishnukr1101](https://github.com/@Vishnukr1101) Full Stack Developer @ [Recode Ai Solutions](https://github.com/RecodeAiSolutions)
+- 👋 Hi, I’m Vishnu KR [(@Vishnukr1101)](https://github.com/@Vishnukr1101) Full Stack Developer @ [Recode Ai Solutions](https://github.com/RecodeAiSolutions)
 - 👀 I’m interested in Full Stack Development
 - 🤹🏼 My Skills: 
   * React Native
