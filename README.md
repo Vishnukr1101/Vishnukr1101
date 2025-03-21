@@ -7,6 +7,7 @@ Take look at my portfolio website: [mybyte.in](https://www.mybyte.in/)
     - React.js
     - Node.js
     - Express.js
+    - GraphQL
     - React Native
     - Typescript
     - JavaScript
